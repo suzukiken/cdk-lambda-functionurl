@@ -29,6 +29,8 @@
     "@aws-cdk/core:target-partitions": [
       "aws",
       "aws-cn"
-    ]
+    ],
+    "domain": "figmentresearch.com",
+    "useast1_acmarn_exportname": "v-domain-figmentresearch-wildcard-useast1-acmarn-3"
   }
 }
